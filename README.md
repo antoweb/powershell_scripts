@@ -15,7 +15,7 @@ How to schedule
 ` iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI" `
 2) Right CLick on your computer/Other options/properties
 
-![System Properties]https://drive.google.com/file/d/1L2IAgKJytJIES8_29mTMLmh3bJbKXBCv/view?usp=sharing
+![System Properties](https://drive.google.com/uc?export=view&id=1L2IAgKJytJIES8_29mTMLmh3bJbKXBCv)
 
 3) Open Task Scheduler
 4) Create a New Schedule
