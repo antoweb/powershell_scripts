@@ -22,6 +22,6 @@ How to schedule
    \<YOUR-PATH-TO\>/restore-point.ps1
 
 
-<iframe src="https://drive.google.com/file/d/1pVmG6hSyNfA9wMeN4lt3iPKozj5q1BqA/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 ![Image Text](https://drive.google.com/uc?export=view&id=1pVmG6hSyNfA9wMeN4lt3iPKozj5q1BqA)
