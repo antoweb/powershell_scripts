@@ -11,17 +11,20 @@ You can install run this command from poershell 5
 ` iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI" `
 
 How to schedule
-1) Open Task Scheduler
-2) Create a New Schedule
-3) 3) In Action (Program or script) insert: 
+1) Install Powershell 7: 
+` iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI" `
+2) Right CLick on your computer/Other options/properties
+
+![System Properties]https://drive.google.com/file/d/1L2IAgKJytJIES8_29mTMLmh3bJbKXBCv/view?usp=sharing
+
+3) Open Task Scheduler
+4) Create a New Schedule
+5) 3) In Action (Program or script) insert: 
    
    "C:\Program Files\PowerShell\7\pwsh.exe"
 
-4) In Arguments insert:
+6) In Arguments insert:
    
    \<YOUR-PATH-TO\>/restore-point.ps1
 
-
-
-
-![Image Text](https://drive.google.com/uc?export=view&id=1pVmG6hSyNfA9wMeN4lt3iPKozj5q1BqA)
+![Task Scheduler settings](https://drive.google.com/uc?export=view&id=1pVmG6hSyNfA9wMeN4lt3iPKozj5q1BqA)
