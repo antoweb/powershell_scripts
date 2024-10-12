@@ -34,3 +34,11 @@ How to schedule
    \<YOUR-PATH-TO\>/restore-point.ps1
 
 ![Task Scheduler settings](https://drive.google.com/uc?export=view&id=1pVmG6hSyNfA9wMeN4lt3iPKozj5q1BqA)
+
+10) Change schedule user to SYSTEM
+
+![Task Scheduler settings](https://drive.google.com/uc?export=view&id=1Br7-EYF_hg91-eQnFKkReyyQoWMwnycy)
+
+11) In activation tab choose when you want activate it (schedule by time or at user login)
+
+Enjoy!!!
