@@ -25,7 +25,7 @@ How to schedule
 
 6) Open Task Scheduler
 7) Create a New Schedule
-8) 3) In Action (Program or script) insert: 
+8) In Action (Program or script) insert: 
    
    "C:\Program Files\PowerShell\7\pwsh.exe"
 
