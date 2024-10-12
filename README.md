@@ -19,7 +19,7 @@ How to schedule
 
 ![System Properties](https://drive.google.com/uc?export=view&id=1L2IAgKJytJIES8_29mTMLmh3bJbKXBCv)
 
-5) Enable Protection for all disk you want to create previous versione
+5) Enable Protection for all disk you want to create previous version
 
 ![System protection](https://drive.google.com/uc?export=view&id=1t9bBkXP--U6cvbkSDqNHSP-e_oHqJ6Rj)
 
