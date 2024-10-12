@@ -16,7 +16,7 @@ if ($restorePoints.Count -gt $maxRestorePoints) {
  # Calculate how many restore points need to be deleted
  $restorePointsToDelete = $restorePoints.Count - $maxRestorePoints
 
- # Delete the oldest restore points
+ # Delete the oldest restore points please pay attention to add one line for every hard drive letter
  for ($i = 0; $i -lt $restorePointsToDelete; $i++) {
  $restorePointID = $restorePoints[$i].SequenceNumber
  vssadmin delete shadows /for=c: /oldest /quiet
