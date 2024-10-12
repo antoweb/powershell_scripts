@@ -15,7 +15,7 @@ How to schedule
 2) Install Powershell 7: 
 ` iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI" `
 3) Right CLick on your computer/Other options/properties
-4) Than clik on System Protection
+4) Than click on System Protection
 
 ![System Properties](https://drive.google.com/uc?export=view&id=1L2IAgKJytJIES8_29mTMLmh3bJbKXBCv)
 
